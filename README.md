@@ -70,4 +70,3 @@ The Live Server extension for VS Code allows you to automatically refresh your b
 4.  **Use Live Server:**
     * As described in Step 3, right click the HTML file and select "Open with Live Server".
 
-Enjoy working with your basic calculator project!
